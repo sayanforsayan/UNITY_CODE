@@ -8,9 +8,9 @@ The goal of this project is to **share practical Unity tools with the community*
 
 ---
 
-## 🚀 Tools Included
+## Tools Included
 
-### 📁 Colorful Folder Structure
+### Colorful Folder Structure
 Improves the Unity Project window by adding **colored folder indicators**.
 
 Features:
@@ -20,7 +20,7 @@ Features:
 
 ---
 
-### 🧩 Custom Inspector Utilities
+###  Custom Inspector Utilities
 Custom inspector tools that improve the Unity Inspector experience.
 
 Features:
@@ -30,7 +30,7 @@ Features:
 
 ---
 
-### 🧹 Useless Assets Finder
+###  Useless Assets Finder
 A tool that helps detect **unused assets** inside the Unity project.
 
 Features:
@@ -40,7 +40,7 @@ Features:
 
 ---
 
-### 🔊 Scene AudioClip Finder
+###  Scene AudioClip Finder
 Utility to find **AudioClips used within scenes**.
 
 Features:
@@ -50,7 +50,7 @@ Features:
 
 ---
 
-### 🔍 Scene Search Tool
+###  Scene Search Tool
 Adds a **search box for scene objects** to quickly locate GameObjects.
 
 Features:
@@ -60,7 +60,7 @@ Features:
 
 ---
 
-## 🧠 Coding Principles
+##  Coding Principles
 
 The code in this repository follows **clean architecture and SOLID principles**:
 
@@ -74,7 +74,7 @@ The focus is to keep the tools **lightweight, extensible, and developer-friendly
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Import Unity Package
 
